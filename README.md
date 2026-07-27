@@ -7,6 +7,9 @@ Projeto de uma Calculadora desenvolvida em Java no terminal.
 - Subtração (-)
 - Multiplicação (*)
 - Divisão (/) com proteção contra divisão por zero
+- Porcentagem (%)
+- Raiz quadrada (√)
+- Potência (^)
 
 ##  Conceitos Utilizados
 - Scanner (Entrada de dados)
